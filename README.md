@@ -25,7 +25,7 @@ This project provides a **robust server-side solution** for a contact form on a 
 | **Backend** | **Node.js** | The runtime environment for the server-side application. |
 | **Framework** | **Express.js** | Provides routing and middleware for handling HTTP requests (form submissions). |
 | **Email Service** | **Nodemailer** (Likely) | Library used to facilitate email sending via SMTP or other services. |
-| **Configuration** | **Dotenv (`.env`)** | Manages environment variables for configuration flexibility and security. |
+| **Configuration** | **Index.js (`index.js`)** | Manages environment variables for configuration flexibility and security. |
 | **Frontend** | **HTML & CSS** | Defines the structure and style of the contact form interface. |
 
 ---
